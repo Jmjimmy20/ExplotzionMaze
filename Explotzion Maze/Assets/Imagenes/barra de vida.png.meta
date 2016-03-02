@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 9ddbe5bb806aa3441b6684f4b0001da3
+timeCreated: 1456713806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barra de vida_0
+    21300002: barra de vida_1
+    21300004: barra de vida_2
+    21300006: barra de vida_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barra de vida_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 351
+        width: 1240
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -388, y: -57}
+        - {x: -360, y: -62}
+        - {x: -287, y: -62}
+        - {x: -264, y: -52}
+        - {x: -225, y: -62}
+        - {x: -152, y: -62}
+        - {x: -113, y: -32}
+        - {x: -76, y: -62}
+        - {x: -34, y: -62}
+        - {x: 11, y: -32}
+        - {x: 48, y: -62}
+        - {x: 90, y: -62}
+        - {x: 135, y: -32}
+        - {x: 172, y: -62}
+        - {x: 214, y: -62}
+        - {x: 259, y: -32}
+        - {x: 283, y: -62}
+        - {x: 335, y: -62}
+        - {x: 360, y: -52}
+        - {x: 395, y: -62}
+        - {x: 445, y: -62}
+        - {x: 464, y: -55}
+        - {x: 508, y: -27}
+        - {x: 540, y: -62}
+        - {x: 569, y: -62}
+        - {x: 588, y: -55}
+        - {x: 620, y: -15}
+        - {x: 620, y: 46}
+        - {x: 607, y: 62}
+        - {x: -8, y: 62}
+        - {x: -11, y: 61}
+        - {x: -18, y: 62}
+        - {x: -602, y: 62}
+        - {x: -620, y: 44}
+        - {x: -620, y: -14}
+        - {x: -577, y: -62}
+        - {x: -529, y: -62}
+        - {x: -485, y: -32}
+        - {x: -458, y: -62}
+        - {x: -405, y: -62}
+    - name: barra de vida_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 196
+        width: 1240
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 358, y: -38}
+        - {x: 386, y: -62}
+        - {x: 473, y: -62}
+        - {x: 503, y: -40}
+        - {x: 524, y: -62}
+        - {x: 576, y: -62}
+        - {x: 588, y: -54}
+        - {x: 616, y: -25}
+        - {x: 616, y: 24}
+        - {x: 600, y: 49}
+        - {x: 506, y: 49}
+        - {x: 501, y: 40}
+        - {x: 468, y: 49}
+        - {x: 270, y: 49}
+        - {x: 267, y: 48}
+        - {x: 265, y: 49}
+        - {x: 21, y: 49}
+        - {x: 6, y: 40}
+        - {x: -3, y: 49}
+        - {x: -598, y: 49}
+        - {x: -620, y: 32}
+        - {x: -620, y: -41}
+        - {x: -602, y: -62}
+        - {x: -519, y: -62}
+        - {x: -489, y: -40}
+        - {x: -468, y: -62}
+        - {x: 331, y: -62}
+    - name: barra de vida_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 201
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 62}
+        - {x: -62, y: 44}
+        - {x: -62, y: -22}
+        - {x: -20, y: -62}
+        - {x: 58, y: -62}
+        - {x: 62, y: -47}
+        - {x: 62, y: 55}
+        - {x: 39, y: 62}
+    - name: barra de vida_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 1240
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -282, y: -62}
+        - {x: -240, y: -33}
+        - {x: -216, y: -62}
+        - {x: -160, y: -62}
+        - {x: -117, y: -48}
+        - {x: -90, y: -62}
+        - {x: -26, y: -62}
+        - {x: 8, y: -33}
+        - {x: 46, y: -62}
+        - {x: 95, y: -62}
+        - {x: 132, y: -44}
+        - {x: 168, y: -62}
+        - {x: 218, y: -62}
+        - {x: 256, y: -35}
+        - {x: 294, y: -62}
+        - {x: 346, y: -62}
+        - {x: 380, y: -33}
+        - {x: 418, y: -62}
+        - {x: 456, y: -62}
+        - {x: 485, y: -31}
+        - {x: 535, y: -62}
+        - {x: 566, y: -62}
+        - {x: 579, y: -59}
+        - {x: 618, y: -27}
+        - {x: 618, y: 44}
+        - {x: 614, y: 61}
+        - {x: 24, y: 61}
+        - {x: 22, y: 59}
+        - {x: 17, y: 61}
+        - {x: -599, y: 61}
+        - {x: -620, y: 42}
+        - {x: -620, y: -19}
+        - {x: -619, y: -28}
+        - {x: -579, y: -62}
+        - {x: -551, y: -62}
+        - {x: -537, y: -58}
+        - {x: -499, y: -62}
+        - {x: -426, y: -62}
+        - {x: -413, y: -59}
+        - {x: -388, y: -62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

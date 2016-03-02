@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 524f39c5188ae63478642ab2f2856758
+timeCreated: 1456379668
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B1
+    100002: Bony
+    100004: Model
+    100006: Rigg
+    100008: steve:Back
+    100010: steve:Body
+    100012: steve:Booleano
+    100014: steve:Eyebrows
+    100016: steve:Eyes
+    100018: steve:Head
+    100020: steve:Head_2
+    100022: steve:Left_Arm
+    100024: steve:Left_Arm_2
+    100026: steve:Left_Elbow
+    100028: steve:Left_Foot
+    100030: steve:Left_Hand
+    100032: steve:Left_Knee
+    100034: steve:Left_Leg
+    100036: steve:Left_Leg_2
+    100038: steve:Neck
+    100040: steve:Neck_2
+    100042: steve:Pupils
+    100044: steve:Right_Arm
+    100046: steve:Right_Arm_2
+    100048: steve:Right_Elbow
+    100050: steve:Right_Foot
+    100052: steve:Right_Hand
+    100054: steve:Right_Knee
+    100056: steve:Right_Leg
+    100058: steve:Right_Leg_2
+    100060: steve:Second_Layer
+    100062: steve:Teeth
+    100064: steve:Top_Back
+    100066: steve:Waist
+    100068: //RootNode
+    400000: B1
+    400002: Bony
+    400004: Model
+    400006: Rigg
+    400008: steve:Back
+    400010: steve:Body
+    400012: steve:Booleano
+    400014: steve:Eyebrows
+    400016: steve:Eyes
+    400018: steve:Head
+    400020: steve:Head_2
+    400022: steve:Left_Arm
+    400024: steve:Left_Arm_2
+    400026: steve:Left_Elbow
+    400028: steve:Left_Foot
+    400030: steve:Left_Hand
+    400032: steve:Left_Knee
+    400034: steve:Left_Leg
+    400036: steve:Left_Leg_2
+    400038: steve:Neck
+    400040: steve:Neck_2
+    400042: steve:Pupils
+    400044: steve:Right_Arm
+    400046: steve:Right_Arm_2
+    400048: steve:Right_Elbow
+    400050: steve:Right_Foot
+    400052: steve:Right_Hand
+    400054: steve:Right_Knee
+    400056: steve:Right_Leg
+    400058: steve:Right_Leg_2
+    400060: steve:Second_Layer
+    400062: steve:Teeth
+    400064: steve:Top_Back
+    400066: steve:Waist
+    400068: //RootNode
+    2300000: B1
+    3300000: B1
+    4300000: steve:Second_Layer
+    4300002: steve:Right_Arm_2
+    4300004: steve:Left_Arm_2
+    4300006: steve:Body
+    4300008: steve:Right_Leg_2
+    4300010: steve:Left_Leg_2
+    4300012: B1
+    7400000: LanzaArriba
+    7400002: Quieto
+    7400004: Idle
+    7400006: Corre
+    9500000: //RootNode
+    13700000: steve:Body
+    13700002: steve:Left_Arm_2
+    13700004: steve:Left_Leg_2
+    13700006: steve:Right_Arm_2
+    13700008: steve:Right_Leg_2
+    13700010: steve:Second_Layer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''Stv_3anim'' conversion failed: Required human bone ''LeftFoot''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LanzaArriba
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B1
+        weight: 0
+      - path: Rigg
+        weight: 1
+      - path: Rigg/Bony
+        weight: 1
+      - path: Rigg/Bony/steve:Waist
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow/steve:Left_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2/steve:Head
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow/steve:Right_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee/steve:Left_Foot
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee/steve:Right_Foot
+        weight: 0
+      - path: Rigg/Model
+        weight: 0
+      - path: Rigg/Model/steve:Body
+        weight: 0
+      - path: Rigg/Model/steve:Head_2
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Booleano
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyebrows
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyes
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Pupils
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Teeth
+        weight: 0
+      - path: Rigg/Model/steve:Left_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Left_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Second_Layer
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Quieto
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B1
+        weight: 0
+      - path: Rigg
+        weight: 1
+      - path: Rigg/Bony
+        weight: 1
+      - path: Rigg/Bony/steve:Waist
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow/steve:Left_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2/steve:Head
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow/steve:Right_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee/steve:Left_Foot
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee/steve:Right_Foot
+        weight: 0
+      - path: Rigg/Model
+        weight: 0
+      - path: Rigg/Model/steve:Body
+        weight: 0
+      - path: Rigg/Model/steve:Head_2
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Booleano
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyebrows
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyes
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Pupils
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Teeth
+        weight: 0
+      - path: Rigg/Model/steve:Left_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Left_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Second_Layer
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B1
+        weight: 0
+      - path: Rigg
+        weight: 1
+      - path: Rigg/Bony
+        weight: 1
+      - path: Rigg/Bony/steve:Waist
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow/steve:Left_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2/steve:Head
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow/steve:Right_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee/steve:Left_Foot
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee/steve:Right_Foot
+        weight: 0
+      - path: Rigg/Model
+        weight: 0
+      - path: Rigg/Model/steve:Body
+        weight: 0
+      - path: Rigg/Model/steve:Head_2
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Booleano
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyebrows
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyes
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Pupils
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Teeth
+        weight: 0
+      - path: Rigg/Model/steve:Left_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Left_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Second_Layer
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Corre
+      takeName: Take 001
+      firstFrame: 153
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B1
+        weight: 0
+      - path: Rigg
+        weight: 1
+      - path: Rigg/Bony
+        weight: 1
+      - path: Rigg/Bony/steve:Waist
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Left_Arm/steve:Left_Elbow/steve:Left_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Neck/steve:Neck_2/steve:Head
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Back/steve:Top_Back/steve:Right_Arm/steve:Right_Elbow/steve:Right_Hand
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Left_Leg/steve:Left_Knee/steve:Left_Foot
+        weight: 0
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee
+        weight: 1
+      - path: Rigg/Bony/steve:Waist/steve:Right_Leg/steve:Right_Knee/steve:Right_Foot
+        weight: 0
+      - path: Rigg/Model
+        weight: 0
+      - path: Rigg/Model/steve:Body
+        weight: 0
+      - path: Rigg/Model/steve:Head_2
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Booleano
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyebrows
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Eyes
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Pupils
+        weight: 0
+      - path: Rigg/Model/steve:Head_2/steve:Teeth
+        weight: 0
+      - path: Rigg/Model/steve:Left_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Left_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Arm_2
+        weight: 0
+      - path: Rigg/Model/steve:Right_Leg_2
+        weight: 0
+      - path: Rigg/Model/steve:Second_Layer
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
