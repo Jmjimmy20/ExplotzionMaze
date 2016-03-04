@@ -16,7 +16,7 @@ public class botonesMenu : MonoBehaviour {
 	}
 
 	public void Jugar (){
-		Application.LoadLevel ("_Scenes/1");
+		Application.LoadLevel ("_Scenes/SeleccionPersonaje");
 	}
 }
 
